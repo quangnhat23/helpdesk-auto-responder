@@ -13,8 +13,9 @@ IMAP_SERVER = "imap.gmail.com"
 #For Outlook: smtp.office365.com
 SMTP_SERVER ="smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_ACCOUNT = "your email" #<---- change this
-EMAIL_PASSWORD ="add app password" 	#<--- use App Password if 2FA enabled
+EMAIL_ACCOUNT = "nguyennhatq22@gmail.com" #<---- change this
+EMAIL_PASSWORD ="Allyouneediskill21" \
+"" 	#<--- use App Password if 2FA enabled
 
 #----------------------------------------
 # SEND AUTO_REPLY
